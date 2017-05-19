@@ -104,8 +104,8 @@ body{
   opacity: 0;
   -webkit-animation: type 5s steps(40, end);
   animation: type9 5s steps(40, end);
-  -webkit-animation-delay: 35s;
-  animation-delay: 35s;
+  -webkit-animation-delay: 37s;
+  animation-delay: 37s;
   -webkit-animation-fill-mode: forwards;
   animation-fill-mode: forwards;
 }
@@ -117,8 +117,8 @@ body{
   opacity: 0;
   -webkit-animation: type 5s steps(40, end);
   animation: type10 5s steps(40, end);
-  -webkit-animation-delay: 40s;
-  animation-delay: 40s;
+  -webkit-animation-delay: 42s;
+  animation-delay: 42s;
   -webkit-animation-fill-mode: forwards;
   animation-fill-mode: forwards;
 }
